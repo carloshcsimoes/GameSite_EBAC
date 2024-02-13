@@ -121,3 +121,9 @@ section h2 {
 #tecnology .articles article a {
     background-color: red;
 }
+
+img {
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+  }
