@@ -75,6 +75,7 @@ section h2,
     text-decoration: none;
     font-weight: bold;
     margin-top: 8px;
+    border-radius: 6px;
 }
 
 .articles article a:hover {
@@ -126,4 +127,5 @@ img {
     width: 200px;
     height: 250px;
     object-fit: cover;
-  }
+    border-radius: 8px;
+}
